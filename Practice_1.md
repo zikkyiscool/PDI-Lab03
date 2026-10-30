@@ -1,4 +1,4 @@
-BEGIN
+START
 
     DISPLAY "Enter number of books: "
     INPUT n
